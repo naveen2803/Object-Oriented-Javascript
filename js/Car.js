@@ -20,7 +20,7 @@
         this.getColor = function(){return _color;};
     }
     
-    // Public function startEngine
+    // Public function
     Car.prototype.getCarProperties = function()
     {
         console.log( getDescription(this) );
